@@ -1,0 +1,5 @@
+{
+  "name": "Chess Flashcard Genie PDF Expiriment",
+  "description": "A sophisticated PGN parser that transforms chess games into educational flashcards for printing and study, featuring AI-powered extraction and FEN visualization.",
+  "requestFramePermissions": []
+}
